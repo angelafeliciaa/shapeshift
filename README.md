@@ -1,11 +1,5 @@
 # ShapeShift
 
-## 🚀 Join the ShapeShift Waitlist
-
-### We’re getting ready to launch ShapeShift! Be among the first to try it out by joining the waitlist:
-
-### 👉 [Sign up here](https://forms.gle/iuHUNXTYS36t82Hh8)
-
 ## How to run
 
 1. Ensure you have Python and Node installed
